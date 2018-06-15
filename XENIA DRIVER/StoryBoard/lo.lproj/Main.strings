@@ -1,0 +1,229 @@
+/* Class = "UITextField"; placeholder = "OLD PASSWORD"; ObjectID = "1le-rq-kCn"; */"1le-rq-kCn.placeholder" = " ລະ​ຫັດ​ຜ່ານ​ເກົ່າ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "2C9-yE-3b3"; */
+"2C9-yE-3b3.placeholder" = "EMAIL";
+
+/* Class = "UILabel"; text = "dfrgghrtt,30 rotterdam"; ObjectID = "2Hk-lt-z8u"; */
+"2Hk-lt-z8u.text" = "dfrgghrtt,30 rotterdam";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "3dW-ax-PMQ"; */"3dW-ax-PMQ.placeholder" = " ຢືນ​ຢັນ​ລະ​ຫັດ ";
+
+/* Class = "UILabel"; text = "No Records"; ObjectID = "3za-D5-aNq"; */
+"3za-D5-aNq.text" = " ບໍ່ມີບັນທຶກ";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "4fO-MM-jpK"; */
+"4fO-MM-jpK.text" = " ພາສີ";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "4iB-2V-Jmp"; */
+"4iB-2V-Jmp.normalTitle" = " ເຂົ້າ​ສູ່​ລະ​ບົບ";
+
+/* Class = "UILabel"; text = "RATING"; ObjectID = "5KH-ig-Htf"; */
+"5KH-ig-Htf.text" = "RATING";
+
+/* Class = "UITextField"; placeholder = "Enter your License plate Number"; ObjectID = "5h3-t4-Wds"; */"5h3-t4-Wds.placeholder" = " ໃສ່ຫມາຍເລກໃບອະນຸຍາດຂອງທ່ານ";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "6Rb-ON-7IB"; */
+"6Rb-ON-7IB.placeholder" = " ຄໍາທັນບົນ ";
+
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "7PE-Zq-hgj"; */
+"7PE-Zq-hgj.text" = " ພາສີ ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "8FE-VB-YOC"; */
+"8FE-VB-YOC.placeholder" = " ນາມ​ສະ​ກຸນ ";
+
+/* Class = "UITextField"; placeholder = "Enter a Make"; ObjectID = "8oA-8R-3Yg"; */
+"8oA-8R-3Yg.placeholder" = " ກະລຸນາໃສ່ Make ";
+
+/* Class = "UITextField"; placeholder = "Select a Category"; ObjectID = "9Fh-Sr-XGF"; */"9Fh-Sr-XGF.placeholder" = " ເລືອກຫມວດຫມູ່";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "9zS-FE-KKl"; */
+"9zS-FE-KKl.text" = " ປ່ຽນ​ລະ​ຫັດ​ຜ່ານ";
+
+/* Class = "UITextField"; placeholder = "YOUR EMAIL"; ObjectID = "AqE-Vy-Nrk"; */
+"AqE-Vy-Nrk.placeholder" = "YOUR EMAIL";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "B7M-9u-6F2"; */
+"B7M-9u-6F2.placeholder" = " ຄໍາທັນບົນ ";
+
+/* Class = "UILabel"; text = "SIGN IN"; ObjectID = "BPz-M7-J9t"; */
+"BPz-M7-J9t.text" = " ເຂົ້າ​ສູ່​ລະ​ບົບ";
+
+/* Class = "UIButton"; normalTitle = "GO TO HOME"; ObjectID = "BXa-2s-lkZ"; */
+"BXa-2s-lkZ.normalTitle" = " ໄປເຮືອນ";
+
+/* Class = "UILabel"; text = "Add ID Proof"; ObjectID = "Bcc-Ko-5Va"; */
+"Bcc-Ko-5Va.text" = " ເພີ່ມ ID Proof ";
+
+
+/* Class = "UILabel"; text = "Trip ID "; ObjectID = "BzB-gG-ZyV"; */
+"BzB-gG-ZyV.text" = "Trip ID ";
+
+/* Class = "UILabel"; text = "Enter your vehicle information"; ObjectID = "Csn-H9-lcD"; */"Csn-H9-lcD.text" = " ໃສ່ຂໍ້ມູນລົດຂອງທ່ານ";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "DFj-xd-mFQ"; */
+"DFj-xd-mFQ.text" = " ຈໍານວນຈ່າຍ ";
+
+/* Class = "UILabel"; text = "HIRE ME CARD"; ObjectID = "EbW-yj-mBf"; */
+"EbW-yj-mBf.text" = "XENIA CARD";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "EeS-go-gu7"; */
+"EeS-go-gu7.normalTitle" = " ຕົກ​ລົງ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "Ery-XB-Jdb"; */
+"Ery-XB-Jdb.placeholder" = " ນາມ​ສະ​ກຸນ";
+
+/* Class = "UIButton"; normalTitle = "decline"; ObjectID = "FbQ-Jn-04S"; */
+"FbQ-Jn-04S.normalTitle" = " ຫຼຸດລົງ ";
+
+/* Class = "UILabel"; text = "FARE REVIEW"; ObjectID = "GCY-nR-Tl1"; */
+"GCY-nR-Tl1.text" = "FARE REVIEW";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "Grq-hU-u3T"; */"Grq-hU-u3T.normalTitle" = "RESET PASSWORD";
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "Igs-e1-Z8a"; */
+"Igs-e1-Z8a.text" = "Fare Amount";
+
+
+/* Class = "UILabel"; text = "JOIN US"; ObjectID = "KLz-A1-89F"; */
+"KLz-A1-89F.text" = " ເຂົ້າ​ຮ່ວມ​ນໍາ​ພວກ​ເຮົາ ";
+
+/* Class = "UILabel"; text = "FARE SUMMARY"; ObjectID = "L1R-Ps-u3t"; */
+"L1R-Ps-u3t.text" = " ບົດລາຍງານການປະເມີນລາຄາ";
+
+/* Class = "UITextField"; placeholder = "Select a Make"; ObjectID = "NPe-zv-Tfv"; */
+"NPe-zv-Tfv.placeholder" = " ເລືອກເຮັດໃຫ້";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "NYL-W7-7Bl"; */"NYL-W7-7Bl.normalTitle" = "FORGOT PASSWORD?";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "NuP-WD-B0a"; */
+"NuP-WD-B0a.text" = "Promo Discount";
+
+/* Class = "UIButton"; normalTitle = "Availability On"; ObjectID = "PWc-Xz-j8F"; */
+"PWc-Xz-j8F.normalTitle" = "Availability On";
+
+/* Class = "UIButton"; normalTitle = "FARE REVIEW"; ObjectID = "Pe4-zs-lTd"; */
+"Pe4-zs-lTd.normalTitle" = "FARE REVIEW";
+
+/* Class = "UILabel"; text = "OR SIGN UP IF YOU'RE NOT A MEMBER"; ObjectID = "R5e-UQ-S0z"; */"R5e-UQ-S0z.text" = " ຫຼືເຂົ້າເຖິງຖ້າທ່ານບໍ່ແມ່ນສະມາຊິກ";
+
+/* Class = "UILabel"; text = "Driver Amount"; ObjectID = "SMl-QJ-LKo"; */
+"SMl-QJ-LKo.text" = " ຈໍານວນຜູ້ຂັບຂີ່ ";
+
+/* Class = "UILabel"; text = "UPLOAD DOCUMENTS"; ObjectID = "Svg-L3-WQ4"; */
+"Svg-L3-WQ4.text" = "UPLOAD DOCUMENTS";
+
+
+/* Class = "UILabel"; text = "LOCATION"; ObjectID = "TMK-uT-XC1"; */
+"TMK-uT-XC1.text" = " ການເອົາຕ້ັງຍູ່ ";
+
+/* Class = "UILabel"; text = "why not ?"; ObjectID = "US1-kS-cDZ"; */
+"US1-kS-cDZ.text" = " ເປັນ​ຫຍັງ​ບໍ່?";
+
+/* Class = "UILabel"; text = "Your star rate from rider"; ObjectID = "UeD-Nk-2lk"; */
+"UeD-Nk-2lk.text" = " ອັດຕາການດາວຂອງທ່ານຈາກຜູ້ຂັບຂີ່";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "WHq-2y-rgw"; */
+"WHq-2y-rgw.placeholder" = "EMAIL";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Wnl-e5-qzu"; */
+"Wnl-e5-qzu.normalTitle" = " ເຂົ້າ​ສູ່​ລະ​ບົບ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "aS4-5F-2zF"; */
+"aS4-5F-2zF.placeholder" = " ຊື່​ແທ້";
+
+/* Class = "UILabel"; text = "Touch in value to accept"; ObjectID = "bmm-ga-1Pa"; */"bmm-ga-1Pa.text" = " ແຕະໃນມູນຄ່າເພື່ອຍອມຮັບ ";
+
+/* Class = "UILabel"; text = "S I G N  I N"; ObjectID = "brp-Kg-ol7"; */
+"brp-Kg-ol7.text" = " ເຂົ້າ​ສູ່​ລະ​ບົບ ";
+
+/* Class = "UIButton"; normalTitle = "Provide bank details payout here"; ObjectID = "cJv-8t-Yca"; */"cJv-8t-Yca.normalTitle" = " ໃຫ້ຈ່າຍລາຍລະອຽດຂອງທະນາຄານຢູ່ທີ່ນີ້ ";
+
+/* Class = "UIButton"; normalTitle = "upload documents"; ObjectID = "emi-pH-CDW"; */"emi-pH-CDW.normalTitle" = " ອັບໂຫລດເອກະສານ";
+
+
+/* Class = "UILabel"; text = "Driver ID"; ObjectID = "fbI-e8-4bW"; */
+"fbI-e8-4bW.text" = "Driver ID";
+
+/* Class = "UILabel"; text = "Add Licence "; ObjectID = "g6j-HX-WH8"; */
+"g6j-HX-WH8.text" = " ເພີ່ມໃບອະນຸຍາດ";
+
+/* Class = "UITextField"; placeholder = "Select a Year"; ObjectID = "gyu-wS-pjg"; */
+"gyu-wS-pjg.placeholder" = " ເລືອກປີ";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "icE-FT-GCM"; */
+"icE-FT-GCM.text" = "Promo Discount";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "kZl-e3-GbO"; */
+"kZl-e3-GbO.normalTitle" = " ຕໍ່ໄປ";
+
+/* Class = "UILabel"; text = "Add Insurance"; ObjectID = "mb7-L5-brp"; */
+"mb7-L5-brp.text" = " ຕື່ມການປະກັນໄພ ";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "nai-Wm-Tcn"; */
+"nai-Wm-Tcn.normalTitle" = " ລົງ​ທະ​ບຽນ ";
+
+/* Class = "UILabel"; text = "EDIT PROFILE"; ObjectID = "oRB-zi-gQ6"; */
+"oRB-zi-gQ6.text" = "EDIT PROFILE";
+
+/* Class = "UIButton"; normalTitle = "JOIN"; ObjectID = "odk-lA-NWZ"; */
+"odk-lA-NWZ.normalTitle" = " ເຂົ້າຮ່ວມ ";
+
+/* Class = "UITextField"; placeholder = "Enter a Model"; ObjectID = "pJm-bD-1hY"; */"pJm-bD-1hY.placeholder" = "Enter a Model";
+
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "qZl-3n-rto"; */
+"qZl-3n-rto.text" = "Fare Amount";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "qaS-7r-k3Q"; */
+"qaS-7r-k3Q.text" = " ຄໍາທັນບົນ";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "qku-29-yFu"; */
+"qku-29-yFu.normalTitle" = " ໄປ";
+
+/* Class = "UILabel"; text = "Amount To Be Collected"; ObjectID = "qsT-6S-DA4"; */
+"qsT-6S-DA4.text" = "Amount To Be Collected";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "rEg-38-ZGC"; */
+"rEg-38-ZGC.placeholder" = " ທີ່ຢ້າຢໄດ້";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "rLM-nG-r8m"; */
+"rLM-nG-r8m.normalTitle" = " ໄວ້";
+
+/* Class = "UITextField"; placeholder = "Select a Model"; ObjectID = "rNp-cA-pFE"; */"rNp-cA-pFE.placeholder" = " ເລືອກຮູບແບບ";
+
+/* Class = "UILabel"; text = "*RESTORE YOUR PASSWORD VIA EMAIL"; ObjectID = "rPr-OW-m9b"; */"rPr-OW-m9b.text" = "* ເກັບຄືນ password ຂອງທ່ານຜ່ານອີເມວ";
+
+/* Class = "UIButton"; normalTitle = "GO OFFLINE"; ObjectID = "toL-S4-gKE"; */
+"toL-S4-gKE.normalTitle" = "GO OFFLINE";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "trt-P9-dnt"; */
+"trt-P9-dnt.text" = " ຈໍານວນຈ່າຍ ";
+
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "uOO-Ey-ngw"; */
+"uOO-Ey-ngw.normalTitle" = " ຍອມ​ຮັບ ";
+
+/* Class = "UITextField"; placeholder = "NEW PASSWORD"; ObjectID = "uhf-zl-ilB"; */"uhf-zl-ilB.placeholder" = " PASSWORD ໃຫມ່ ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "wi9-Mg-gAI"; */
+"wi9-Mg-gAI.placeholder" = " ຊື່​ແທ້";
+
+/* Class = "UILabel"; text = "TRIP DETAIL"; ObjectID = "xQz-c5-luZ"; */
+"xQz-c5-luZ.text" = "TRIP DETAIL";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "xnc-8V-qNF"; */
+"xnc-8V-qNF.placeholder" = " ທີ່ຢ້າຢໄດ້";
+
+/* Class = "UILabel"; text = "TRIP HISTORY"; ObjectID = "yAa-Te-lDB"; */
+"yAa-Te-lDB.text" = "TRIP HISTORY";
+
+/* Class = "UIButton"; normalTitle = "Begin Trip"; ObjectID = "yMs-pw-tqg"; */
+"yMs-pw-tqg.normalTitle" = " ເລີ່ມຕົ້ນການເດີນທາງ";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "ysv-hD-i54"; */
+"ysv-hD-i54.normalTitle" = " ລົງ​ທະ​ບຽນ ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "ywF-0c-l69"; */
+"ywF-0c-l69.placeholder" = "EMAIL";
+

@@ -1,0 +1,227 @@
+
+/* Class = "UITextField"; placeholder = "OLD PASSWORD"; ObjectID = "1le-rq-kCn"; */"1le-rq-kCn.placeholder" = "기존 비밀번호 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "2C9-yE-3b3"; */
+"2C9-yE-3b3.placeholder" = "이메일 ";
+
+/* Class = "UILabel"; text = "dfrgghrtt,30 rotterdam"; ObjectID = "2Hk-lt-z8u"; */
+"2Hk-lt-z8u.text" = "dfrgghrtt,30로테르담 ";
+
+/* Class = "UITextField"; placeholder = "CONFIRM PASSWORD"; ObjectID = "3dW-ax-PMQ"; */"3dW-ax-PMQ.placeholder" = "비밀번호 확인 ";
+
+/* Class = "UILabel"; text = "No Records"; ObjectID = "3za-D5-aNq"; */
+"3za-D5-aNq.text" = "기록 없음 ";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "4fO-MM-jpK"; */
+"4fO-MM-jpK.text" = "세 ";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "4iB-2V-Jmp"; */
+"4iB-2V-Jmp.normalTitle" = "로그인 ";
+
+/* Class = "UILabel"; text = "RATING"; ObjectID = "5KH-ig-Htf"; */
+"5KH-ig-Htf.text" = "평가 ";
+
+/* Class = "UITextField"; placeholder = "Enter your License plate Number"; ObjectID = "5h3-t4-Wds"; */"5h3-t4-Wds.placeholder" = " 번호판 번호 입력";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "6Rb-ON-7IB"; */
+"6Rb-ON-7IB.placeholder" = "암호 ";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "7PE-Zq-hgj"; */"7PE-Zq-hgj.text" = "세 ";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "8FE-VB-YOC"; */
+"8FE-VB-YOC.placeholder" = "성 ";
+
+/* Class = "UITextField"; placeholder = "Enter a Make"; ObjectID = "8oA-8R-3Yg"; */
+"8oA-8R-3Yg.placeholder" = " Make를 입력하십시오. ";
+
+/* Class = "UITextField"; placeholder = "Select a Category"; ObjectID = "9Fh-Sr-XGF"; */"9Fh-Sr-XGF.placeholder" = "카테고리 선택 ";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "9zS-FE-KKl"; */
+"9zS-FE-KKl.text" = "비밀번호 변경 ";
+
+/* Class = "UITextField"; placeholder = "YOUR EMAIL"; ObjectID = "AqE-Vy-Nrk"; */
+"AqE-Vy-Nrk.placeholder" = "귀하의 이메일 ";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "B7M-9u-6F2"; */
+"B7M-9u-6F2.placeholder" = "암호 ";
+
+/* Class = "UILabel"; text = "SIGN IN"; ObjectID = "BPz-M7-J9t"; */
+"BPz-M7-J9t.text" = "로그인 ";
+
+/* Class = "UIButton"; normalTitle = "GO TO HOME"; ObjectID = "BXa-2s-lkZ"; */
+"BXa-2s-lkZ.normalTitle" = "GO TO HOME";
+
+/* Class = "UILabel"; text = "Add ID Proof"; ObjectID = "Bcc-Ko-5Va"; */
+"Bcc-Ko-5Va.text" = " ID 증명 추가";
+
+
+/* Class = "UILabel"; text = "Trip ID "; ObjectID = "BzB-gG-ZyV"; */
+"BzB-gG-ZyV.text" = "여행 ID ";
+
+/* Class = "UILabel"; text = "Enter your vehicle information"; ObjectID = "Csn-H9-lcD"; */"Csn-H9-lcD.text" = " 차량 정보 입력";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "DFj-xd-mFQ"; */
+"DFj-xd-mFQ.text" = "금액 지급 ";
+
+/* Class = "UILabel"; text = "HIRE ME CARD"; ObjectID = "EbW-yj-mBf"; */
+"EbW-yj-mBf.text" = "XENIA CARD";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "EeS-go-gu7"; */
+"EeS-go-gu7.normalTitle" = "Ok";
+
+/* Class = "UITextField"; placeholder = "LAST NAME"; ObjectID = "Ery-XB-Jdb"; */
+"Ery-XB-Jdb.placeholder" = "성 ";
+
+/* Class = "UIButton"; normalTitle = "decline"; ObjectID = "FbQ-Jn-04S"; */
+"FbQ-Jn-04S.normalTitle" = "쇠퇴 ";
+
+/* Class = "UILabel"; text = "FARE REVIEW"; ObjectID = "GCY-nR-Tl1"; */
+"GCY-nR-Tl1.text" = "FARE REVIEW";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "Grq-hU-u3T"; */"Grq-hU-u3T.normalTitle" = "암호를 재설정 ";
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "Igs-e1-Z8a"; */
+"Igs-e1-Z8a.text" = "요금 금액 ";
+
+
+/* Class = "UILabel"; text = "JOIN US"; ObjectID = "KLz-A1-89F"; */
+"KLz-A1-89F.text" = "가입하십시오 ";
+
+/* Class = "UILabel"; text = "FARE SUMMARY"; ObjectID = "L1R-Ps-u3t"; */
+"L1R-Ps-u3t.text" = "FARE SUMMARY";
+
+/* Class = "UITextField"; placeholder = "Select a Make"; ObjectID = "NPe-zv-Tfv"; */
+"NPe-zv-Tfv.placeholder" = "만들기를 선택하십시오 ";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "NYL-W7-7Bl"; */"NYL-W7-7Bl.normalTitle" = "비밀번호를 잊으 셨나요?";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "NuP-WD-B0a"; */
+"NuP-WD-B0a.text" = " 프로모션 할인";
+
+/* Class = "UIButton"; normalTitle = "Availability On"; ObjectID = "PWc-Xz-j8F"; */
+"PWc-Xz-j8F.normalTitle" = "사용 가능 시간 ";
+
+/* Class = "UIButton"; normalTitle = "FARE REVIEW"; ObjectID = "Pe4-zs-lTd"; */
+"Pe4-zs-lTd.normalTitle" = "FARE REVIEW";
+
+/* Class = "UILabel"; text = "OR SIGN UP IF YOU'RE NOT A MEMBER"; ObjectID = "R5e-UQ-S0z"; */"R5e-UQ-S0z.text" = " 회원이 아니면 가입하십시오";
+
+/* Class = "UILabel"; text = "Driver Amount"; ObjectID = "SMl-QJ-LKo"; */
+"SMl-QJ-LKo.text" = "드라이버 금액 ";
+
+/* Class = "UILabel"; text = "UPLOAD DOCUMENTS"; ObjectID = "Svg-L3-WQ4"; */
+"Svg-L3-WQ4.text" = " 문서 업로드";
+
+
+/* Class = "UILabel"; text = "LOCATION"; ObjectID = "TMK-uT-XC1"; */
+"TMK-uT-XC1.text" = "위치 ";
+
+/* Class = "UILabel"; text = "why not ?"; ObjectID = "US1-kS-cDZ"; */
+"US1-kS-cDZ.text" = "왜 안돼?";
+
+/* Class = "UILabel"; text = "Your star rate from rider"; ObjectID = "UeD-Nk-2lk"; */
+"UeD-Nk-2lk.text" = "라이더의 스타 요금 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "WHq-2y-rgw"; */
+"WHq-2y-rgw.placeholder" = "이메일 ";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "Wnl-e5-qzu"; */
+"Wnl-e5-qzu.normalTitle" = "로그인 ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "aS4-5F-2zF"; */
+"aS4-5F-2zF.placeholder" = "이름 ";
+
+/* Class = "UILabel"; text = "Touch in value to accept"; ObjectID = "bmm-ga-1Pa"; */"bmm-ga-1Pa.text" = " 수락하려면 값을 터치하세요. ";
+
+/* Class = "UILabel"; text = "S I G N  I N"; ObjectID = "brp-Kg-ol7"; */
+"brp-Kg-ol7.text" = "로그인";
+
+/* Class = "UIButton"; normalTitle = "Provide bank details payout here"; ObjectID = "cJv-8t-Yca"; */"cJv-8t-Yca.normalTitle" = "은행 세부 정보 지불금을 여기에 입력하십시오. ";
+
+/* Class = "UIButton"; normalTitle = "upload documents"; ObjectID = "emi-pH-CDW"; */"emi-pH-CDW.normalTitle" = "문서 업로드 ";
+
+/* Class = "UILabel"; text = "Driver ID"; ObjectID = "fbI-e8-4bW"; */
+"fbI-e8-4bW.text" = "드라이버 ID ";
+
+/* Class = "UILabel"; text = "Add Licence "; ObjectID = "g6j-HX-WH8"; */
+"g6j-HX-WH8.text" = "라이선스 추가 ";
+
+/* Class = "UITextField"; placeholder = "Select a Year"; ObjectID = "gyu-wS-pjg"; */
+"gyu-wS-pjg.placeholder" = " 한 해 선택";
+
+/* Class = "UILabel"; text = "Promo Discount"; ObjectID = "icE-FT-GCM"; */
+"icE-FT-GCM.text" = "프로모션 할인 ";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "kZl-e3-GbO"; */
+"kZl-e3-GbO.normalTitle" = "다음  ";
+
+/* Class = "UILabel"; text = "Add Insurance"; ObjectID = "mb7-L5-brp"; */
+"mb7-L5-brp.text" = "보험 가입";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "nai-Wm-Tcn"; */
+"nai-Wm-Tcn.normalTitle" = "가입하기 ";
+
+/* Class = "UILabel"; text = "EDIT PROFILE"; ObjectID = "oRB-zi-gQ6"; */
+"oRB-zi-gQ6.text" = "프로필 수정 ";
+
+/* Class = "UIButton"; normalTitle = "JOIN"; ObjectID = "odk-lA-NWZ"; */
+"odk-lA-NWZ.normalTitle" = "어울리다 ";
+
+/* Class = "UITextField"; placeholder = "Enter a Model"; ObjectID = "pJm-bD-1hY"; */"pJm-bD-1hY.placeholder" = "모델 입력 ";
+
+
+/* Class = "UILabel"; text = "Fare Amount"; ObjectID = "qZl-3n-rto"; */
+"qZl-3n-rto.text" = "요금 금액 ";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "qaS-7r-k3Q"; */
+"qaS-7r-k3Q.text" = "암호 ";
+
+/* Class = "UIButton"; normalTitle = "GO"; ObjectID = "qku-29-yFu"; */
+"qku-29-yFu.normalTitle" = "가기 ";
+
+/* Class = "UILabel"; text = "Amount To Be Collected"; ObjectID = "qsT-6S-DA4"; */
+"qsT-6S-DA4.text" = "징수 할 금액 ";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "rEg-38-ZGC"; */
+"rEg-38-ZGC.placeholder" = "모바일 ";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "rLM-nG-r8m"; */
+"rLM-nG-r8m.normalTitle" = "저장 ";
+
+/* Class = "UITextField"; placeholder = "Select a Model"; ObjectID = "rNp-cA-pFE"; */
+"rNp-cA-pFE.placeholder" = "모델 선택 ";
+
+/* Class = "UILabel"; text = "*RESTORE YOUR PASSWORD VIA EMAIL"; ObjectID = "rPr-OW-m9b"; */"rPr-OW-m9b.text" = "*이메일을 통해 비밀번호를 복원하십시오. ";
+
+/* Class = "UIButton"; normalTitle = "GO OFFLINE"; ObjectID = "toL-S4-gKE"; */
+"toL-S4-gKE.normalTitle" = "접속을 끊다 ";
+
+/* Class = "UILabel"; text = "Amount Paid"; ObjectID = "trt-P9-dnt"; */
+"trt-P9-dnt.text" = "금액 지급 ";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "uOO-Ey-ngw"; */
+"uOO-Ey-ngw.normalTitle" = "동의 ";
+
+/* Class = "UITextField"; placeholder = "NEW PASSWORD"; ObjectID = "uhf-zl-ilB"; */"uhf-zl-ilB.placeholder" = "새 비밀번호 ";
+
+/* Class = "UITextField"; placeholder = "FIRST NAME"; ObjectID = "wi9-Mg-gAI"; */
+"wi9-Mg-gAI.placeholder" = "이름 ";
+
+/* Class = "UILabel"; text = "TRIP DETAIL"; ObjectID = "xQz-c5-luZ"; */
+"xQz-c5-luZ.text" = "여행 세부 정보 ";
+
+/* Class = "UITextField"; placeholder = "MOBILE"; ObjectID = "xnc-8V-qNF"; */
+"xnc-8V-qNF.placeholder" = "모바일";
+
+/* Class = "UILabel"; text = "TRIP HISTORY"; ObjectID = "yAa-Te-lDB"; */
+"yAa-Te-lDB.text" = "트립 역사 ";
+
+/* Class = "UIButton"; normalTitle = "Begin Trip"; ObjectID = "yMs-pw-tqg"; */
+"yMs-pw-tqg.normalTitle" = " 여행 시작";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "ysv-hD-i54"; */
+"ysv-hD-i54.normalTitle" = "가입하기 ";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "ywF-0c-l69"; */
+"ywF-0c-l69.placeholder" = "이메일 ";
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>SKUBER DRIVER.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8211C0B91F9DF30400D3745F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8211C0D21F9DF30500D3745F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8211C0DD1F9DF30500D3745F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,1115 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		02F4826CCEAFF58A46D4FEE64BAAB6FE /* UIView+WebCacheOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 26FD132B3DCD1BEF095C4D2F6AC0B817 /* UIView+WebCacheOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		05CA5BCF3FE7709A6BC99B9DB2237924 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 635A4BD1CEF7E623C71F97A54BFC3616 /* ImageIO.framework */; };
+		1996EA996E662C4C607EFAC861B1EBB1 /* LGSideMenuController-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F6D9FFE117A57AA56D713B6C3350A2AB /* LGSideMenuController-dummy.m */; };
+		1DDC96A7F0605FA0CBFA33088A9603E3 /* LGSideMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C1682B5C30BFD5B0ABDE5726DECDC8E /* LGSideMenuController.m */; };
+		229C75109B418DFE0C2C25A6349567AC /* NSData+ImageContentType.m in Sources */ = {isa = PBXBuildFile; fileRef = CDC8AE7AE36FE08F186CCD87E5CA2762 /* NSData+ImageContentType.m */; };
+		22D7AE5C290D8669CE830D54C9283E82 /* LGSideMenuGesturesHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = F6655891C9CF61D337C92B8C430AFC8C /* LGSideMenuGesturesHandler.m */; };
+		250BD428FFA67EA33B3421FBEAEBBFE2 /* Pods-XENIA DRIVERTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 65C93E77CE2CC38DBB8DEBFAF873752E /* Pods-XENIA DRIVERTests-dummy.m */; };
+		2D5A7AF4C254B1429ACD6ED6BD82AF9F /* SDWebImageDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = DC90D581216C5B503BB3E4CFE3A402DE /* SDWebImageDownloader.m */; };
+		2E9949399357556681475585CAD5BDE7 /* LGSideMenuController.h in Headers */ = {isa = PBXBuildFile; fileRef = 6A3A0C51EA824CC62231B8CD01888C73 /* LGSideMenuController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2ECCB9A4FA9FFB6CBC7CA70F481D53EB /* SDWebImagePrefetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 29E2A29C5EC5A0945168B4A69A15DB82 /* SDWebImagePrefetcher.m */; };
+		2FC58B10ACFF8A61B9C71433D6F3A8B0 /* SDWebImageDecoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 1FC1F69696ECB6E76AC9E0E4AE3DC5F5 /* SDWebImageDecoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		350187165355B81F58DF9A57E5EBC564 /* SDWebImageManager.h in Headers */ = {isa = PBXBuildFile; fileRef = F85FD25435D10DD4C2B902C0A42E416E /* SDWebImageManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		37319D4D49BF5FAD4F77A69A9EA62ED0 /* SDWebImageDownloaderOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = DEADFF29FCDE7919B9FA3728518EFA02 /* SDWebImageDownloaderOperation.m */; };
+		3C1C22C00061BADA6BA71E390CE0F578 /* SDImageCache.m in Sources */ = {isa = PBXBuildFile; fileRef = F814DAD0A6C45CB267BA50360E7E381B /* SDImageCache.m */; };
+		448586FB0CDAD2E4FE3894F062EF1148 /* NSData+ImageContentType.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DDF8C69D63FB8959E785C1F47816394 /* NSData+ImageContentType.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		47454FCBC3408FCACED81D03BFE01A0A /* UIImage+MultiFormat.m in Sources */ = {isa = PBXBuildFile; fileRef = 70BF5D6C0E348652846F378BC3D328F5 /* UIImage+MultiFormat.m */; };
+		4D6C879C945B38CC31FC2CD5F4767867 /* SDWebImageDownloaderOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 040EF306B278EB566A3DE1C2F2E18578 /* SDWebImageDownloaderOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4ED3626DF460B2284E2DF7420BE5646D /* UIImageView+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = D26E226F5113B213183497A4BF0AD7DE /* UIImageView+WebCache.m */; };
+		5075D1999F8ACB6250CABCAAC3A06164 /* SDWebImageCompat.h in Headers */ = {isa = PBXBuildFile; fileRef = 1AADDEA7DECA567541D04C57D0F18223 /* SDWebImageCompat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		52A9DB04154C985D88EDB467939AA0CF /* UIImageView+WebCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 0A99DEBA7AC7652538943998E5C7D8EC /* UIImageView+WebCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5E80A2AD7BD4D7850FE7E4E69E3E258C /* UIView+WebCacheOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = 57D419B724C80830728140680EC62DF4 /* UIView+WebCacheOperation.m */; };
+		603B33079A5953654E21E4FCE8E94E88 /* SDWebImageCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = 89E6DBFEB46E2C01FFCD086227EAD005 /* SDWebImageCompat.m */; };
+		61CDF394C0B895CEFA2101748DAE0AF6 /* UIViewController+LGSideMenuController.m in Sources */ = {isa = PBXBuildFile; fileRef = EB18E981DF3A1B87F29AED773A65CEC4 /* UIViewController+LGSideMenuController.m */; };
+		673E7FB32C8159DFBA9B9BAAE99A8155 /* UIImage+MultiFormat.h in Headers */ = {isa = PBXBuildFile; fileRef = E81E535CE390F44376861ADD9BB5BC84 /* UIImage+MultiFormat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6A8CA0158435767FC17E9854D7BB731C /* Pods-XENIA DRIVERUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D50C69656997CF5A3F4A9D8F9E97E1B3 /* Pods-XENIA DRIVERUITests-dummy.m */; };
+		6B20EA936A76C78E023E0EAD77466076 /* Pods-XENIA DRIVER-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 695A4A997F91BA0894DF2819C67F6AD2 /* Pods-XENIA DRIVER-dummy.m */; };
+		7E5F5FA2645AF0A1CD51A29AB6CC0E37 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */; };
+		82A1B8186C111530BA66FD1A6BFF9FB6 /* UIViewController+LGSideMenuController.h in Headers */ = {isa = PBXBuildFile; fileRef = 98BCD77DD02ECE8D09017CA66A436B9D /* UIViewController+LGSideMenuController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		87B62547CCE9617F003046EE20F48A6F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */; };
+		8919683B4E0391C6188688631B4BAE23 /* LGSideMenuView.h in Headers */ = {isa = PBXBuildFile; fileRef = 2D6D28AD8BCFB6D24C85454705AA9519 /* LGSideMenuView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8B32F9EBEBF0BF756957CEE99B4F5EEA /* LGSideMenuHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 069CA790C5491FA1C17CB7B3A5336758 /* LGSideMenuHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8D46585502B1BF3B9A003E8D543F0047 /* LGSideMenuView.m in Sources */ = {isa = PBXBuildFile; fileRef = 33A8E3FC549B11299CBEFE4368169D5D /* LGSideMenuView.m */; };
+		9D849040BC9D0AE3D8B7611D1D568904 /* UIImage+GIF.h in Headers */ = {isa = PBXBuildFile; fileRef = 24065EF2FE71B20A070CF02FB4A70DE4 /* UIImage+GIF.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		9FA481C7C7089241A85E2EAA3D0F4552 /* SDWebImageOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 7CAECA7CEC518BB91598A76D14F56242 /* SDWebImageOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A2698DF829D99C6A8093524A3551504E /* SDWebImage-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BD868AC33E736C6FCEA85068B9400F64 /* SDWebImage-dummy.m */; };
+		A41D11F98ADF46C128690FDA5CE64E7F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */; };
+		ACCAFF35D20473957DFF2FC71EB07E13 /* SDImageCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 48F166806192C0A6151E4A6FAC6CEA75 /* SDImageCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B16AD5E15F0831668846D554341C35A2 /* SDWebImageManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 8624FEFF82F2794B1452192FE904260B /* SDWebImageManager.m */; };
+		B3ECCB9C7646A25A57B25715FD65A88D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */; };
+		B3FF02E669B658BC7FC366E5DE3C63AD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */; };
+		B8BA88FA22110C62E4236B37D6FF4853 /* LGSideMenuBorderView.h in Headers */ = {isa = PBXBuildFile; fileRef = 3A97B8685C91CA2D62F1F3E3DD908A88 /* LGSideMenuBorderView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BA7AABE53E67A3DBAE9D6E14D6049A54 /* LGSideMenuSegue.h in Headers */ = {isa = PBXBuildFile; fileRef = DFB8F47F8494E578D19346934856F330 /* LGSideMenuSegue.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		BF7DC698B060719C9187BB1991BC9CFE /* LGSideMenuGesturesHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 9C963A2B6F8F8D9A995C05AEE761A498 /* LGSideMenuGesturesHandler.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C13E57E17564F631BE935D1C0EC35B1A /* LGSideMenuBorderView.m in Sources */ = {isa = PBXBuildFile; fileRef = D2AE8FEA708A01DFBA5F359299D14DD3 /* LGSideMenuBorderView.m */; };
+		C659A3A57CB04E40F5DC04016C794B34 /* LGSideMenuSegue.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C44F16233EE8094D9092BAA06BA4D76 /* LGSideMenuSegue.m */; };
+		CCB3F8A6D26562EE196E0F0599544362 /* UIImage+GIF.m in Sources */ = {isa = PBXBuildFile; fileRef = 8408EE5329D0736F518710E70D601212 /* UIImage+GIF.m */; };
+		E4B6407797047DF72B1835CA6C2B2B68 /* UIImageView+HighlightedWebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 35316807388D6D3D6D07F22B1F390165 /* UIImageView+HighlightedWebCache.m */; };
+		E72A5C241A29AD18908DA68FCE4F1C3E /* LGSideMenuHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 284E3893CB597AEDB86AECF91BE152A0 /* LGSideMenuHelper.m */; };
+		EF0CF38525C740AA79D9B1B6D64B77B8 /* UIButton+WebCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 20EBC493FF66FEC0F253F1312BE8EC67 /* UIButton+WebCache.m */; };
+		F1C2071F7ED21F48E67BD4D075F51AFC /* SDWebImageDownloader.h in Headers */ = {isa = PBXBuildFile; fileRef = 23C3BD98CFA2016225970862DFC04CF6 /* SDWebImageDownloader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F1E595AC486975EEA4CF0A5B3FBA7EF7 /* SDWebImagePrefetcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 861A598E7B97830EF350698BA7594D8A /* SDWebImagePrefetcher.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F3D72E7DA19BB6446495070456A79DF3 /* UIButton+WebCache.h in Headers */ = {isa = PBXBuildFile; fileRef = A59DB7ADA9A488E0143D564C591283D5 /* UIButton+WebCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		FA93BA857CA11CEB32D478AF2FFF2E28 /* SDWebImageDecoder.m in Sources */ = {isa = PBXBuildFile; fileRef = DC60D7F2755578B93FC4FEA28D9F653C /* SDWebImageDecoder.m */; };
+		FB7F74C7B833DA266BBD13C19341A38F /* UIImageView+HighlightedWebCache.h in Headers */ = {isa = PBXBuildFile; fileRef = C2E396C9F6648BCF2854A206B458D649 /* UIImageView+HighlightedWebCache.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		65EA1D044AE1D49E174AD8CFB4906530 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = B14D1374F2F7B0B2A5E8E2B263368F7E;
+			remoteInfo = LGSideMenuController;
+		};
+		90BC6189D1355973388E298368A9B207 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2FA8F7926E59F662F472A987B6E9CB69;
+			remoteInfo = SDWebImage;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		010F8589CA8275FB0ADF875F71F33656 /* SDWebImage.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SDWebImage.xcconfig; sourceTree = "<group>"; };
+		0166FF58F3F405B5336874BFE30455C5 /* Fabric.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Fabric.h; path = iOS/Fabric.framework/Headers/Fabric.h; sourceTree = "<group>"; };
+		040EF306B278EB566A3DE1C2F2E18578 /* SDWebImageDownloaderOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloaderOperation.h; path = SDWebImage/SDWebImageDownloaderOperation.h; sourceTree = "<group>"; };
+		05C47710B53DFC1BCAC2BDFAA12A985C /* Pods-XENIA DRIVERTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVERTests-frameworks.sh"; sourceTree = "<group>"; };
+		069CA790C5491FA1C17CB7B3A5336758 /* LGSideMenuHelper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuHelper.h; path = LGSideMenuController/LGSideMenuHelper.h; sourceTree = "<group>"; };
+		0A99DEBA7AC7652538943998E5C7D8EC /* UIImageView+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+WebCache.h"; path = "SDWebImage/UIImageView+WebCache.h"; sourceTree = "<group>"; };
+		1AADDEA7DECA567541D04C57D0F18223 /* SDWebImageCompat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageCompat.h; path = SDWebImage/SDWebImageCompat.h; sourceTree = "<group>"; };
+		1DCF301468BC57358389E6E83337E781 /* LGSideMenuController-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LGSideMenuController-prefix.pch"; sourceTree = "<group>"; };
+		1FC1F69696ECB6E76AC9E0E4AE3DC5F5 /* SDWebImageDecoder.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDecoder.h; path = SDWebImage/SDWebImageDecoder.h; sourceTree = "<group>"; };
+		20EBC493FF66FEC0F253F1312BE8EC67 /* UIButton+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIButton+WebCache.m"; path = "SDWebImage/UIButton+WebCache.m"; sourceTree = "<group>"; };
+		23C3BD98CFA2016225970862DFC04CF6 /* SDWebImageDownloader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageDownloader.h; path = SDWebImage/SDWebImageDownloader.h; sourceTree = "<group>"; };
+		24065EF2FE71B20A070CF02FB4A70DE4 /* UIImage+GIF.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+GIF.h"; path = "SDWebImage/UIImage+GIF.h"; sourceTree = "<group>"; };
+		253E02489AFFB1A71D3B17973CD66882 /* Pods-XENIA DRIVERTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XENIA DRIVERTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		26FD132B3DCD1BEF095C4D2F6AC0B817 /* UIView+WebCacheOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+WebCacheOperation.h"; path = "SDWebImage/UIView+WebCacheOperation.h"; sourceTree = "<group>"; };
+		284E3893CB597AEDB86AECF91BE152A0 /* LGSideMenuHelper.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuHelper.m; path = LGSideMenuController/LGSideMenuHelper.m; sourceTree = "<group>"; };
+		29E2A29C5EC5A0945168B4A69A15DB82 /* SDWebImagePrefetcher.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImagePrefetcher.m; path = SDWebImage/SDWebImagePrefetcher.m; sourceTree = "<group>"; };
+		2D6D28AD8BCFB6D24C85454705AA9519 /* LGSideMenuView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuView.h; path = LGSideMenuController/LGSideMenuView.h; sourceTree = "<group>"; };
+		2EA43AF404A6405E2172D8A227318780 /* Crashlytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Crashlytics.framework; path = iOS/Crashlytics.framework; sourceTree = "<group>"; };
+		32518169FF3EC1BFC74F5940E9FC64AF /* libPods-XENIA DRIVERUITests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XENIA DRIVERUITests.a"; path = "libPods-XENIA DRIVERUITests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		33A8E3FC549B11299CBEFE4368169D5D /* LGSideMenuView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuView.m; path = LGSideMenuController/LGSideMenuView.m; sourceTree = "<group>"; };
+		35316807388D6D3D6D07F22B1F390165 /* UIImageView+HighlightedWebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+HighlightedWebCache.m"; path = "SDWebImage/UIImageView+HighlightedWebCache.m"; sourceTree = "<group>"; };
+		3A97B8685C91CA2D62F1F3E3DD908A88 /* LGSideMenuBorderView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuBorderView.h; path = LGSideMenuController/LGSideMenuBorderView.h; sourceTree = "<group>"; };
+		3D8D0D384BF8F3FD00084C93A0392957 /* BugseeAttachment.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeAttachment.h; path = Bugsee.framework/Versions/A/Headers/BugseeAttachment.h; sourceTree = "<group>"; };
+		3F4F42E14B3A8D84C1D1D06DDE68FCE7 /* BugseeReport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeReport.h; path = Bugsee.framework/Versions/A/Headers/BugseeReport.h; sourceTree = "<group>"; };
+		40642A0B567CFB196EEFC5B991A533C4 /* LGSideMenuController.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LGSideMenuController.xcconfig; sourceTree = "<group>"; };
+		40911E7E7A2D1BFE1E4B60D0273CB21E /* Pods-XENIA DRIVER-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XENIA DRIVER-acknowledgements.markdown"; sourceTree = "<group>"; };
+		48317D97B6CB86BCF342D4DD52FEA211 /* BugseeConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeConstants.h; path = Bugsee.framework/Versions/A/Headers/BugseeConstants.h; sourceTree = "<group>"; };
+		486087FCD1DC928610E8EA717D3D9EC0 /* Pods-XENIA DRIVER.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVER.release.xcconfig"; sourceTree = "<group>"; };
+		48F166806192C0A6151E4A6FAC6CEA75 /* SDImageCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDImageCache.h; path = SDWebImage/SDImageCache.h; sourceTree = "<group>"; };
+		4C1682B5C30BFD5B0ABDE5726DECDC8E /* LGSideMenuController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuController.m; path = LGSideMenuController/LGSideMenuController.m; sourceTree = "<group>"; };
+		4DDF8C69D63FB8959E785C1F47816394 /* NSData+ImageContentType.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSData+ImageContentType.h"; path = "SDWebImage/NSData+ImageContentType.h"; sourceTree = "<group>"; };
+		57D419B724C80830728140680EC62DF4 /* UIView+WebCacheOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+WebCacheOperation.m"; path = "SDWebImage/UIView+WebCacheOperation.m"; sourceTree = "<group>"; };
+		62120903ABA11D213BC99307C8984293 /* SDWebImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SDWebImage-prefix.pch"; sourceTree = "<group>"; };
+		635A4BD1CEF7E623C71F97A54BFC3616 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/ImageIO.framework; sourceTree = DEVELOPER_DIR; };
+		65C93E77CE2CC38DBB8DEBFAF873752E /* Pods-XENIA DRIVERTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XENIA DRIVERTests-dummy.m"; sourceTree = "<group>"; };
+		695A4A997F91BA0894DF2819C67F6AD2 /* Pods-XENIA DRIVER-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XENIA DRIVER-dummy.m"; sourceTree = "<group>"; };
+		6A3A0C51EA824CC62231B8CD01888C73 /* LGSideMenuController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuController.h; path = LGSideMenuController/LGSideMenuController.h; sourceTree = "<group>"; };
+		6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		6DB6C7EBB167266B2EF1A03B2034DB09 /* CLSLogging.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSLogging.h; path = iOS/Crashlytics.framework/Headers/CLSLogging.h; sourceTree = "<group>"; };
+		6F3448C4B1EF7B2FA9F6383CF7118A13 /* Bugsee.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Bugsee.h; path = Bugsee.framework/Versions/A/Headers/Bugsee.h; sourceTree = "<group>"; };
+		6FA76050D6DEF7159C5CD5977FF02FB1 /* Pods-XENIA DRIVERTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XENIA DRIVERTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		70BAFFF8C62207849F45F052708F46CF /* Answers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Answers.h; path = iOS/Crashlytics.framework/Headers/Answers.h; sourceTree = "<group>"; };
+		70BF5D6C0E348652846F378BC3D328F5 /* UIImage+MultiFormat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+MultiFormat.m"; path = "SDWebImage/UIImage+MultiFormat.m"; sourceTree = "<group>"; };
+		74A006C343A7A118FBAC164F7183EC10 /* Pods-XENIA DRIVER.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVER.debug.xcconfig"; sourceTree = "<group>"; };
+		7C44F16233EE8094D9092BAA06BA4D76 /* LGSideMenuSegue.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuSegue.m; path = LGSideMenuController/LGSideMenuSegue.m; sourceTree = "<group>"; };
+		7CAECA7CEC518BB91598A76D14F56242 /* SDWebImageOperation.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageOperation.h; path = SDWebImage/SDWebImageOperation.h; sourceTree = "<group>"; };
+		7CED7E76219F5ABB6E49B6BB7B4122BC /* Crashlytics.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Crashlytics.h; path = iOS/Crashlytics.framework/Headers/Crashlytics.h; sourceTree = "<group>"; };
+		7D5BEE31DCA1F10E2D5C16E8E1C1B3D1 /* Pods-XENIA DRIVERUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVERUITests-frameworks.sh"; sourceTree = "<group>"; };
+		7E73E79F00C961CA6EA71C4C52DDFA4A /* Fabric.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Fabric.framework; path = iOS/Fabric.framework; sourceTree = "<group>"; };
+		8073EFEB35BB072618E9C12C45C1DD14 /* libLGSideMenuController.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libLGSideMenuController.a; path = libLGSideMenuController.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		81BF6C005709B2856768EE6062B47481 /* Pods-XENIA DRIVERUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XENIA DRIVERUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		8408EE5329D0736F518710E70D601212 /* UIImage+GIF.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+GIF.m"; path = "SDWebImage/UIImage+GIF.m"; sourceTree = "<group>"; };
+		861A598E7B97830EF350698BA7594D8A /* SDWebImagePrefetcher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImagePrefetcher.h; path = SDWebImage/SDWebImagePrefetcher.h; sourceTree = "<group>"; };
+		8624FEFF82F2794B1452192FE904260B /* SDWebImageManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageManager.m; path = SDWebImage/SDWebImageManager.m; sourceTree = "<group>"; };
+		89E6DBFEB46E2C01FFCD086227EAD005 /* SDWebImageCompat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageCompat.m; path = SDWebImage/SDWebImageCompat.m; sourceTree = "<group>"; };
+		8C9FB2002BC9674372F30570E09F7972 /* Pods-XENIA DRIVERTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVERTests.debug.xcconfig"; sourceTree = "<group>"; };
+		8F35AD14144C3BE99FFFA14A76989AE9 /* Pods-XENIA DRIVERUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XENIA DRIVERUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		909C07C1BA5628D47E23B0E953C9942A /* CLSReport.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSReport.h; path = iOS/Crashlytics.framework/Headers/CLSReport.h; sourceTree = "<group>"; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9715D2B5B2A5F8A21978C4906435D04F /* Pods-XENIA DRIVERUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVERUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		98BCD77DD02ECE8D09017CA66A436B9D /* UIViewController+LGSideMenuController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIViewController+LGSideMenuController.h"; path = "LGSideMenuController/UIViewController+LGSideMenuController.h"; sourceTree = "<group>"; };
+		992C1A884E19E43415F2813E834D54BE /* libSDWebImage.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libSDWebImage.a; path = libSDWebImage.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C963A2B6F8F8D9A995C05AEE761A498 /* LGSideMenuGesturesHandler.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuGesturesHandler.h; path = LGSideMenuController/LGSideMenuGesturesHandler.h; sourceTree = "<group>"; };
+		A08C79A277133C757B18ACB94544EF66 /* ANSCompatibility.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = ANSCompatibility.h; path = iOS/Crashlytics.framework/Headers/ANSCompatibility.h; sourceTree = "<group>"; };
+		A59DB7ADA9A488E0143D564C591283D5 /* UIButton+WebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIButton+WebCache.h"; path = "SDWebImage/UIButton+WebCache.h"; sourceTree = "<group>"; };
+		A7C41AF8AF4655BF17499FA8C027B689 /* Pods-XENIA DRIVERTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVERTests.release.xcconfig"; sourceTree = "<group>"; };
+		AD2686699AAB161EB83526CD5B33C83E /* Bugsee.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bugsee.framework; sourceTree = "<group>"; };
+		B48CFDF32966E7DFC10FC907597FC09D /* libPods-XENIA DRIVERTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XENIA DRIVERTests.a"; path = "libPods-XENIA DRIVERTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9A3102F0B8ACEEFAFAFF4FB1613E5D3 /* Pods-XENIA DRIVER-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVER-frameworks.sh"; sourceTree = "<group>"; };
+		BD868AC33E736C6FCEA85068B9400F64 /* SDWebImage-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SDWebImage-dummy.m"; sourceTree = "<group>"; };
+		C134D584289933069D46001749B59370 /* Pods-XENIA DRIVER-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XENIA DRIVER-acknowledgements.plist"; sourceTree = "<group>"; };
+		C2E396C9F6648BCF2854A206B458D649 /* UIImageView+HighlightedWebCache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImageView+HighlightedWebCache.h"; path = "SDWebImage/UIImageView+HighlightedWebCache.h"; sourceTree = "<group>"; };
+		C3597EFAD4EDAFB4B1C58B0F051CB0E4 /* BugseeNetworkEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeNetworkEvent.h; path = Bugsee.framework/Versions/A/Headers/BugseeNetworkEvent.h; sourceTree = "<group>"; };
+		C4A01D992B6C012F04AAD1E72CD56489 /* Pods-XENIA DRIVERUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVERUITests-resources.sh"; sourceTree = "<group>"; };
+		C5E6239D1F85223B506A1A59B57997D5 /* BugseeOptions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeOptions.h; path = Bugsee.framework/Versions/A/Headers/BugseeOptions.h; sourceTree = "<group>"; };
+		CDC8AE7AE36FE08F186CCD87E5CA2762 /* NSData+ImageContentType.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSData+ImageContentType.m"; path = "SDWebImage/NSData+ImageContentType.m"; sourceTree = "<group>"; };
+		D09755C8E5B0F657DDE9E21593DE6D53 /* BugseeLogEvent.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeLogEvent.h; path = Bugsee.framework/Versions/A/Headers/BugseeLogEvent.h; sourceTree = "<group>"; };
+		D26E226F5113B213183497A4BF0AD7DE /* UIImageView+WebCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImageView+WebCache.m"; path = "SDWebImage/UIImageView+WebCache.m"; sourceTree = "<group>"; };
+		D2AE8FEA708A01DFBA5F359299D14DD3 /* LGSideMenuBorderView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuBorderView.m; path = LGSideMenuController/LGSideMenuBorderView.m; sourceTree = "<group>"; };
+		D50C69656997CF5A3F4A9D8F9E97E1B3 /* Pods-XENIA DRIVERUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XENIA DRIVERUITests-dummy.m"; sourceTree = "<group>"; };
+		D5AF9170A8FB35D4B036D8553A62920D /* FABAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = FABAttributes.h; path = iOS/Fabric.framework/Headers/FABAttributes.h; sourceTree = "<group>"; };
+		D9F91C63E7D25C506E1AC924ADDE55C1 /* Pods-XENIA DRIVERUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XENIA DRIVERUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DB06086DB0583DAD2B3A40F8043B86DC /* libPods-XENIA DRIVER.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XENIA DRIVER.a"; path = "libPods-XENIA DRIVER.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		DBBDCF448F753868E3A92FF197C25CF3 /* Pods-XENIA DRIVERTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVERTests-resources.sh"; sourceTree = "<group>"; };
+		DC60D7F2755578B93FC4FEA28D9F653C /* SDWebImageDecoder.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDecoder.m; path = SDWebImage/SDWebImageDecoder.m; sourceTree = "<group>"; };
+		DC90D581216C5B503BB3E4CFE3A402DE /* SDWebImageDownloader.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloader.m; path = SDWebImage/SDWebImageDownloader.m; sourceTree = "<group>"; };
+		DEADFF29FCDE7919B9FA3728518EFA02 /* SDWebImageDownloaderOperation.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDWebImageDownloaderOperation.m; path = SDWebImage/SDWebImageDownloaderOperation.m; sourceTree = "<group>"; };
+		DFB8F47F8494E578D19346934856F330 /* LGSideMenuSegue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LGSideMenuSegue.h; path = LGSideMenuController/LGSideMenuSegue.h; sourceTree = "<group>"; };
+		E81E535CE390F44376861ADD9BB5BC84 /* UIImage+MultiFormat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+MultiFormat.h"; path = "SDWebImage/UIImage+MultiFormat.h"; sourceTree = "<group>"; };
+		EB18E981DF3A1B87F29AED773A65CEC4 /* UIViewController+LGSideMenuController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+LGSideMenuController.m"; path = "LGSideMenuController/UIViewController+LGSideMenuController.m"; sourceTree = "<group>"; };
+		EDA7BFD2BBC8171D6EDF74B14C36F8E5 /* BugseeLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = BugseeLogger.h; path = Bugsee.framework/Versions/A/Headers/BugseeLogger.h; sourceTree = "<group>"; };
+		EE283F95379E1ED408A65D0FDF18429F /* CLSAttributes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSAttributes.h; path = iOS/Crashlytics.framework/Headers/CLSAttributes.h; sourceTree = "<group>"; };
+		F342EDE557802CDC48C45CC4190B6A54 /* CLSStackFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CLSStackFrame.h; path = iOS/Crashlytics.framework/Headers/CLSStackFrame.h; sourceTree = "<group>"; };
+		F4DECAE1D7AAFEBEC78627F89C236994 /* Pods-XENIA DRIVER-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XENIA DRIVER-resources.sh"; sourceTree = "<group>"; };
+		F6655891C9CF61D337C92B8C430AFC8C /* LGSideMenuGesturesHandler.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LGSideMenuGesturesHandler.m; path = LGSideMenuController/LGSideMenuGesturesHandler.m; sourceTree = "<group>"; };
+		F6D9FFE117A57AA56D713B6C3350A2AB /* LGSideMenuController-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LGSideMenuController-dummy.m"; sourceTree = "<group>"; };
+		F814DAD0A6C45CB267BA50360E7E381B /* SDImageCache.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = SDImageCache.m; path = SDWebImage/SDImageCache.m; sourceTree = "<group>"; };
+		F85FD25435D10DD4C2B902C0A42E416E /* SDWebImageManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = SDWebImageManager.h; path = SDWebImage/SDWebImageManager.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		53D823FC82DF544D41D39084AE8C56A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7E5F5FA2645AF0A1CD51A29AB6CC0E37 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B7D7A1C0D8F8AE4A70B1555D5C824544 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				87B62547CCE9617F003046EE20F48A6F /* Foundation.framework in Frameworks */,
+				05CA5BCF3FE7709A6BC99B9DB2237924 /* ImageIO.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CE6CF137BC48FFF6F7783A35071AD10C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3FF02E669B658BC7FC366E5DE3C63AD /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D3FBD44BDE0656BFA175450D091B233C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A41D11F98ADF46C128690FDA5CE64E7F /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E66E5420B003FB3E42D666F85E00CE86 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B3ECCB9C7646A25A57B25715FD65A88D /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0737814A3B07152C11344047F0CB50FC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AD2686699AAB161EB83526CD5B33C83E /* Bugsee.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1FADA36CBBEBF5DF6696194D87183478 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				6CE29CF4FF5C02028C0A06EC0D2A6120 /* Foundation.framework */,
+				635A4BD1CEF7E623C71F97A54BFC3616 /* ImageIO.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		3E386F8E85D40011ED91CD9BBB795A07 /* Pods-XENIA DRIVERTests */ = {
+			isa = PBXGroup;
+			children = (
+				6FA76050D6DEF7159C5CD5977FF02FB1 /* Pods-XENIA DRIVERTests-acknowledgements.markdown */,
+				253E02489AFFB1A71D3B17973CD66882 /* Pods-XENIA DRIVERTests-acknowledgements.plist */,
+				65C93E77CE2CC38DBB8DEBFAF873752E /* Pods-XENIA DRIVERTests-dummy.m */,
+				05C47710B53DFC1BCAC2BDFAA12A985C /* Pods-XENIA DRIVERTests-frameworks.sh */,
+				DBBDCF448F753868E3A92FF197C25CF3 /* Pods-XENIA DRIVERTests-resources.sh */,
+				8C9FB2002BC9674372F30570E09F7972 /* Pods-XENIA DRIVERTests.debug.xcconfig */,
+				A7C41AF8AF4655BF17499FA8C027B689 /* Pods-XENIA DRIVERTests.release.xcconfig */,
+			);
+			name = "Pods-XENIA DRIVERTests";
+			path = "Target Support Files/Pods-XENIA DRIVERTests";
+			sourceTree = "<group>";
+		};
+		405E7CF174DDE55B9EF476B0E8E7F0F6 /* Pods-XENIA DRIVER */ = {
+			isa = PBXGroup;
+			children = (
+				40911E7E7A2D1BFE1E4B60D0273CB21E /* Pods-XENIA DRIVER-acknowledgements.markdown */,
+				C134D584289933069D46001749B59370 /* Pods-XENIA DRIVER-acknowledgements.plist */,
+				695A4A997F91BA0894DF2819C67F6AD2 /* Pods-XENIA DRIVER-dummy.m */,
+				B9A3102F0B8ACEEFAFAFF4FB1613E5D3 /* Pods-XENIA DRIVER-frameworks.sh */,
+				F4DECAE1D7AAFEBEC78627F89C236994 /* Pods-XENIA DRIVER-resources.sh */,
+				74A006C343A7A118FBAC164F7183EC10 /* Pods-XENIA DRIVER.debug.xcconfig */,
+				486087FCD1DC928610E8EA717D3D9EC0 /* Pods-XENIA DRIVER.release.xcconfig */,
+			);
+			name = "Pods-XENIA DRIVER";
+			path = "Target Support Files/Pods-XENIA DRIVER";
+			sourceTree = "<group>";
+		};
+		433CD3331B6C3787F473C941B61FC68F /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1FADA36CBBEBF5DF6696194D87183478 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5D6D7E881BFD713DB5F92552D07F8DE2 /* SDWebImage */ = {
+			isa = PBXGroup;
+			children = (
+				6FDC628B0B30B7632A4085BBE07DCD68 /* Core */,
+				A3F53725992181B0D66536662F6B3B6D /* Support Files */,
+			);
+			name = SDWebImage;
+			path = SDWebImage;
+			sourceTree = "<group>";
+		};
+		64F3E7FEE989F2EC248FBA6954B53DAF /* Fabric */ = {
+			isa = PBXGroup;
+			children = (
+				D5AF9170A8FB35D4B036D8553A62920D /* FABAttributes.h */,
+				0166FF58F3F405B5336874BFE30455C5 /* Fabric.h */,
+				699F2B7EFD19B3CC661927258C8AD591 /* Frameworks */,
+			);
+			name = Fabric;
+			path = Fabric;
+			sourceTree = "<group>";
+		};
+		699F2B7EFD19B3CC661927258C8AD591 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7E73E79F00C961CA6EA71C4C52DDFA4A /* Fabric.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6C27BD90BE64D830E67A694C0EDC5A0B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				2EA43AF404A6405E2172D8A227318780 /* Crashlytics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6C390627A819A72AA5BF7227A55C8AC7 /* Bugsee */ = {
+			isa = PBXGroup;
+			children = (
+				6F3448C4B1EF7B2FA9F6383CF7118A13 /* Bugsee.h */,
+				3D8D0D384BF8F3FD00084C93A0392957 /* BugseeAttachment.h */,
+				48317D97B6CB86BCF342D4DD52FEA211 /* BugseeConstants.h */,
+				D09755C8E5B0F657DDE9E21593DE6D53 /* BugseeLogEvent.h */,
+				EDA7BFD2BBC8171D6EDF74B14C36F8E5 /* BugseeLogger.h */,
+				C3597EFAD4EDAFB4B1C58B0F051CB0E4 /* BugseeNetworkEvent.h */,
+				C5E6239D1F85223B506A1A59B57997D5 /* BugseeOptions.h */,
+				3F4F42E14B3A8D84C1D1D06DDE68FCE7 /* BugseeReport.h */,
+				0737814A3B07152C11344047F0CB50FC /* Frameworks */,
+			);
+			name = Bugsee;
+			path = Bugsee;
+			sourceTree = "<group>";
+		};
+		6FDC628B0B30B7632A4085BBE07DCD68 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				4DDF8C69D63FB8959E785C1F47816394 /* NSData+ImageContentType.h */,
+				CDC8AE7AE36FE08F186CCD87E5CA2762 /* NSData+ImageContentType.m */,
+				48F166806192C0A6151E4A6FAC6CEA75 /* SDImageCache.h */,
+				F814DAD0A6C45CB267BA50360E7E381B /* SDImageCache.m */,
+				1AADDEA7DECA567541D04C57D0F18223 /* SDWebImageCompat.h */,
+				89E6DBFEB46E2C01FFCD086227EAD005 /* SDWebImageCompat.m */,
+				1FC1F69696ECB6E76AC9E0E4AE3DC5F5 /* SDWebImageDecoder.h */,
+				DC60D7F2755578B93FC4FEA28D9F653C /* SDWebImageDecoder.m */,
+				23C3BD98CFA2016225970862DFC04CF6 /* SDWebImageDownloader.h */,
+				DC90D581216C5B503BB3E4CFE3A402DE /* SDWebImageDownloader.m */,
+				040EF306B278EB566A3DE1C2F2E18578 /* SDWebImageDownloaderOperation.h */,
+				DEADFF29FCDE7919B9FA3728518EFA02 /* SDWebImageDownloaderOperation.m */,
+				F85FD25435D10DD4C2B902C0A42E416E /* SDWebImageManager.h */,
+				8624FEFF82F2794B1452192FE904260B /* SDWebImageManager.m */,
+				7CAECA7CEC518BB91598A76D14F56242 /* SDWebImageOperation.h */,
+				861A598E7B97830EF350698BA7594D8A /* SDWebImagePrefetcher.h */,
+				29E2A29C5EC5A0945168B4A69A15DB82 /* SDWebImagePrefetcher.m */,
+				A59DB7ADA9A488E0143D564C591283D5 /* UIButton+WebCache.h */,
+				20EBC493FF66FEC0F253F1312BE8EC67 /* UIButton+WebCache.m */,
+				24065EF2FE71B20A070CF02FB4A70DE4 /* UIImage+GIF.h */,
+				8408EE5329D0736F518710E70D601212 /* UIImage+GIF.m */,
+				E81E535CE390F44376861ADD9BB5BC84 /* UIImage+MultiFormat.h */,
+				70BF5D6C0E348652846F378BC3D328F5 /* UIImage+MultiFormat.m */,
+				C2E396C9F6648BCF2854A206B458D649 /* UIImageView+HighlightedWebCache.h */,
+				35316807388D6D3D6D07F22B1F390165 /* UIImageView+HighlightedWebCache.m */,
+				0A99DEBA7AC7652538943998E5C7D8EC /* UIImageView+WebCache.h */,
+				D26E226F5113B213183497A4BF0AD7DE /* UIImageView+WebCache.m */,
+				26FD132B3DCD1BEF095C4D2F6AC0B817 /* UIView+WebCacheOperation.h */,
+				57D419B724C80830728140680EC62DF4 /* UIView+WebCacheOperation.m */,
+			);
+			name = Core;
+			sourceTree = "<group>";
+		};
+		7DB346D0F39D3F0E887471402A8071AB = {
+			isa = PBXGroup;
+			children = (
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				433CD3331B6C3787F473C941B61FC68F /* Frameworks */,
+				A19C795134A39486FF0C6B8842739340 /* Pods */,
+				B572CAB37B5E9AF7B7F25FA42DF0E931 /* Products */,
+				98EF5D44B4C385848277128C4FB8C68E /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		8F3A5AA504238F6D734FC924F5F2B5E7 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				40642A0B567CFB196EEFC5B991A533C4 /* LGSideMenuController.xcconfig */,
+				F6D9FFE117A57AA56D713B6C3350A2AB /* LGSideMenuController-dummy.m */,
+				1DCF301468BC57358389E6E83337E781 /* LGSideMenuController-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/LGSideMenuController";
+			sourceTree = "<group>";
+		};
+		94A385A0EA5436F99E096CD9D52AA84E /* Pods-XENIA DRIVERUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8F35AD14144C3BE99FFFA14A76989AE9 /* Pods-XENIA DRIVERUITests-acknowledgements.markdown */,
+				81BF6C005709B2856768EE6062B47481 /* Pods-XENIA DRIVERUITests-acknowledgements.plist */,
+				D50C69656997CF5A3F4A9D8F9E97E1B3 /* Pods-XENIA DRIVERUITests-dummy.m */,
+				7D5BEE31DCA1F10E2D5C16E8E1C1B3D1 /* Pods-XENIA DRIVERUITests-frameworks.sh */,
+				C4A01D992B6C012F04AAD1E72CD56489 /* Pods-XENIA DRIVERUITests-resources.sh */,
+				9715D2B5B2A5F8A21978C4906435D04F /* Pods-XENIA DRIVERUITests.debug.xcconfig */,
+				D9F91C63E7D25C506E1AC924ADDE55C1 /* Pods-XENIA DRIVERUITests.release.xcconfig */,
+			);
+			name = "Pods-XENIA DRIVERUITests";
+			path = "Target Support Files/Pods-XENIA DRIVERUITests";
+			sourceTree = "<group>";
+		};
+		97DE2BC63D0AF982E70CE5F1A4F0BD0E /* LGSideMenuController */ = {
+			isa = PBXGroup;
+			children = (
+				3A97B8685C91CA2D62F1F3E3DD908A88 /* LGSideMenuBorderView.h */,
+				D2AE8FEA708A01DFBA5F359299D14DD3 /* LGSideMenuBorderView.m */,
+				6A3A0C51EA824CC62231B8CD01888C73 /* LGSideMenuController.h */,
+				4C1682B5C30BFD5B0ABDE5726DECDC8E /* LGSideMenuController.m */,
+				9C963A2B6F8F8D9A995C05AEE761A498 /* LGSideMenuGesturesHandler.h */,
+				F6655891C9CF61D337C92B8C430AFC8C /* LGSideMenuGesturesHandler.m */,
+				069CA790C5491FA1C17CB7B3A5336758 /* LGSideMenuHelper.h */,
+				284E3893CB597AEDB86AECF91BE152A0 /* LGSideMenuHelper.m */,
+				DFB8F47F8494E578D19346934856F330 /* LGSideMenuSegue.h */,
+				7C44F16233EE8094D9092BAA06BA4D76 /* LGSideMenuSegue.m */,
+				2D6D28AD8BCFB6D24C85454705AA9519 /* LGSideMenuView.h */,
+				33A8E3FC549B11299CBEFE4368169D5D /* LGSideMenuView.m */,
+				98BCD77DD02ECE8D09017CA66A436B9D /* UIViewController+LGSideMenuController.h */,
+				EB18E981DF3A1B87F29AED773A65CEC4 /* UIViewController+LGSideMenuController.m */,
+				8F3A5AA504238F6D734FC924F5F2B5E7 /* Support Files */,
+			);
+			name = LGSideMenuController;
+			path = LGSideMenuController;
+			sourceTree = "<group>";
+		};
+		98EF5D44B4C385848277128C4FB8C68E /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				405E7CF174DDE55B9EF476B0E8E7F0F6 /* Pods-XENIA DRIVER */,
+				3E386F8E85D40011ED91CD9BBB795A07 /* Pods-XENIA DRIVERTests */,
+				94A385A0EA5436F99E096CD9D52AA84E /* Pods-XENIA DRIVERUITests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		A19C795134A39486FF0C6B8842739340 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6C390627A819A72AA5BF7227A55C8AC7 /* Bugsee */,
+				BA3DBBC6544D352AE596DB405A5E010D /* Crashlytics */,
+				64F3E7FEE989F2EC248FBA6954B53DAF /* Fabric */,
+				97DE2BC63D0AF982E70CE5F1A4F0BD0E /* LGSideMenuController */,
+				5D6D7E881BFD713DB5F92552D07F8DE2 /* SDWebImage */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		A3F53725992181B0D66536662F6B3B6D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				010F8589CA8275FB0ADF875F71F33656 /* SDWebImage.xcconfig */,
+				BD868AC33E736C6FCEA85068B9400F64 /* SDWebImage-dummy.m */,
+				62120903ABA11D213BC99307C8984293 /* SDWebImage-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/SDWebImage";
+			sourceTree = "<group>";
+		};
+		B572CAB37B5E9AF7B7F25FA42DF0E931 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8073EFEB35BB072618E9C12C45C1DD14 /* libLGSideMenuController.a */,
+				DB06086DB0583DAD2B3A40F8043B86DC /* libPods-XENIA DRIVER.a */,
+				B48CFDF32966E7DFC10FC907597FC09D /* libPods-XENIA DRIVERTests.a */,
+				32518169FF3EC1BFC74F5940E9FC64AF /* libPods-XENIA DRIVERUITests.a */,
+				992C1A884E19E43415F2813E834D54BE /* libSDWebImage.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BA3DBBC6544D352AE596DB405A5E010D /* Crashlytics */ = {
+			isa = PBXGroup;
+			children = (
+				A08C79A277133C757B18ACB94544EF66 /* ANSCompatibility.h */,
+				70BAFFF8C62207849F45F052708F46CF /* Answers.h */,
+				EE283F95379E1ED408A65D0FDF18429F /* CLSAttributes.h */,
+				6DB6C7EBB167266B2EF1A03B2034DB09 /* CLSLogging.h */,
+				909C07C1BA5628D47E23B0E953C9942A /* CLSReport.h */,
+				F342EDE557802CDC48C45CC4190B6A54 /* CLSStackFrame.h */,
+				7CED7E76219F5ABB6E49B6BB7B4122BC /* Crashlytics.h */,
+				6C27BD90BE64D830E67A694C0EDC5A0B /* Frameworks */,
+			);
+			name = Crashlytics;
+			path = Crashlytics;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		0DDBCA1759A38AAB4D9AEEAA0C2E3112 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B8BA88FA22110C62E4236B37D6FF4853 /* LGSideMenuBorderView.h in Headers */,
+				2E9949399357556681475585CAD5BDE7 /* LGSideMenuController.h in Headers */,
+				BF7DC698B060719C9187BB1991BC9CFE /* LGSideMenuGesturesHandler.h in Headers */,
+				8B32F9EBEBF0BF756957CEE99B4F5EEA /* LGSideMenuHelper.h in Headers */,
+				BA7AABE53E67A3DBAE9D6E14D6049A54 /* LGSideMenuSegue.h in Headers */,
+				8919683B4E0391C6188688631B4BAE23 /* LGSideMenuView.h in Headers */,
+				82A1B8186C111530BA66FD1A6BFF9FB6 /* UIViewController+LGSideMenuController.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		16BC6E73601556868691E4F1CC32C528 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				448586FB0CDAD2E4FE3894F062EF1148 /* NSData+ImageContentType.h in Headers */,
+				ACCAFF35D20473957DFF2FC71EB07E13 /* SDImageCache.h in Headers */,
+				5075D1999F8ACB6250CABCAAC3A06164 /* SDWebImageCompat.h in Headers */,
+				2FC58B10ACFF8A61B9C71433D6F3A8B0 /* SDWebImageDecoder.h in Headers */,
+				F1C2071F7ED21F48E67BD4D075F51AFC /* SDWebImageDownloader.h in Headers */,
+				4D6C879C945B38CC31FC2CD5F4767867 /* SDWebImageDownloaderOperation.h in Headers */,
+				350187165355B81F58DF9A57E5EBC564 /* SDWebImageManager.h in Headers */,
+				9FA481C7C7089241A85E2EAA3D0F4552 /* SDWebImageOperation.h in Headers */,
+				F1E595AC486975EEA4CF0A5B3FBA7EF7 /* SDWebImagePrefetcher.h in Headers */,
+				F3D72E7DA19BB6446495070456A79DF3 /* UIButton+WebCache.h in Headers */,
+				9D849040BC9D0AE3D8B7611D1D568904 /* UIImage+GIF.h in Headers */,
+				673E7FB32C8159DFBA9B9BAAE99A8155 /* UIImage+MultiFormat.h in Headers */,
+				FB7F74C7B833DA266BBD13C19341A38F /* UIImageView+HighlightedWebCache.h in Headers */,
+				52A9DB04154C985D88EDB467939AA0CF /* UIImageView+WebCache.h in Headers */,
+				02F4826CCEAFF58A46D4FEE64BAAB6FE /* UIView+WebCacheOperation.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		2FA8F7926E59F662F472A987B6E9CB69 /* SDWebImage */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 91E22EC61FCC069F43B274EE2EB26291 /* Build configuration list for PBXNativeTarget "SDWebImage" */;
+			buildPhases = (
+				9C416571B3CA4EBEB736992842402DCD /* Sources */,
+				B7D7A1C0D8F8AE4A70B1555D5C824544 /* Frameworks */,
+				16BC6E73601556868691E4F1CC32C528 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SDWebImage;
+			productName = SDWebImage;
+			productReference = 992C1A884E19E43415F2813E834D54BE /* libSDWebImage.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		6C8877BD374E5CF92C865B153D5C2AA6 /* Pods-XENIA DRIVER */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C22BCC4D03B5C4803EA6597A97B15629 /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVER" */;
+			buildPhases = (
+				13245B43774E7D777B18BD568BB68966 /* Sources */,
+				E66E5420B003FB3E42D666F85E00CE86 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AC68EF6DA4E97FDD037878FCE256BFE6 /* PBXTargetDependency */,
+				BC7497BAE2EE4BA75952495953D7225A /* PBXTargetDependency */,
+			);
+			name = "Pods-XENIA DRIVER";
+			productName = "Pods-XENIA DRIVER";
+			productReference = DB06086DB0583DAD2B3A40F8043B86DC /* libPods-XENIA DRIVER.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		80DD504B6081B64D4927D87B729584D2 /* Pods-XENIA DRIVERUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 068C32B96C6DAF55FBEBF081CDECB107 /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVERUITests" */;
+			buildPhases = (
+				23776550EEBF80C69CD6C4B7F4DAEA72 /* Sources */,
+				CE6CF137BC48FFF6F7783A35071AD10C /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-XENIA DRIVERUITests";
+			productName = "Pods-XENIA DRIVERUITests";
+			productReference = 32518169FF3EC1BFC74F5940E9FC64AF /* libPods-XENIA DRIVERUITests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		979E9973F7029C16E4B25F5A21C92528 /* Pods-XENIA DRIVERTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BF408C0510DACCB786BA33675A5AE87C /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVERTests" */;
+			buildPhases = (
+				F2BD76E39D3F95A8070D92E4641375ED /* Sources */,
+				53D823FC82DF544D41D39084AE8C56A1 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pods-XENIA DRIVERTests";
+			productName = "Pods-XENIA DRIVERTests";
+			productReference = B48CFDF32966E7DFC10FC907597FC09D /* libPods-XENIA DRIVERTests.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		B14D1374F2F7B0B2A5E8E2B263368F7E /* LGSideMenuController */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 01B220EB807AF747005CCB1EBCE41CE5 /* Build configuration list for PBXNativeTarget "LGSideMenuController" */;
+			buildPhases = (
+				342859276B17D5F46C077C16BCD03FB0 /* Sources */,
+				D3FBD44BDE0656BFA175450D091B233C /* Frameworks */,
+				0DDBCA1759A38AAB4D9AEEAA0C2E3112 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = LGSideMenuController;
+			productName = LGSideMenuController;
+			productReference = 8073EFEB35BB072618E9C12C45C1DD14 /* libLGSideMenuController.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D41D8CD98F00B204E9800998ECF8427E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0700;
+			};
+			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
+			productRefGroup = B572CAB37B5E9AF7B7F25FA42DF0E931 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B14D1374F2F7B0B2A5E8E2B263368F7E /* LGSideMenuController */,
+				6C8877BD374E5CF92C865B153D5C2AA6 /* Pods-XENIA DRIVER */,
+				979E9973F7029C16E4B25F5A21C92528 /* Pods-XENIA DRIVERTests */,
+				80DD504B6081B64D4927D87B729584D2 /* Pods-XENIA DRIVERUITests */,
+				2FA8F7926E59F662F472A987B6E9CB69 /* SDWebImage */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		13245B43774E7D777B18BD568BB68966 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6B20EA936A76C78E023E0EAD77466076 /* Pods-XENIA DRIVER-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		23776550EEBF80C69CD6C4B7F4DAEA72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6A8CA0158435767FC17E9854D7BB731C /* Pods-XENIA DRIVERUITests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		342859276B17D5F46C077C16BCD03FB0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C13E57E17564F631BE935D1C0EC35B1A /* LGSideMenuBorderView.m in Sources */,
+				1996EA996E662C4C607EFAC861B1EBB1 /* LGSideMenuController-dummy.m in Sources */,
+				1DDC96A7F0605FA0CBFA33088A9603E3 /* LGSideMenuController.m in Sources */,
+				22D7AE5C290D8669CE830D54C9283E82 /* LGSideMenuGesturesHandler.m in Sources */,
+				E72A5C241A29AD18908DA68FCE4F1C3E /* LGSideMenuHelper.m in Sources */,
+				C659A3A57CB04E40F5DC04016C794B34 /* LGSideMenuSegue.m in Sources */,
+				8D46585502B1BF3B9A003E8D543F0047 /* LGSideMenuView.m in Sources */,
+				61CDF394C0B895CEFA2101748DAE0AF6 /* UIViewController+LGSideMenuController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9C416571B3CA4EBEB736992842402DCD /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				229C75109B418DFE0C2C25A6349567AC /* NSData+ImageContentType.m in Sources */,
+				3C1C22C00061BADA6BA71E390CE0F578 /* SDImageCache.m in Sources */,
+				A2698DF829D99C6A8093524A3551504E /* SDWebImage-dummy.m in Sources */,
+				603B33079A5953654E21E4FCE8E94E88 /* SDWebImageCompat.m in Sources */,
+				FA93BA857CA11CEB32D478AF2FFF2E28 /* SDWebImageDecoder.m in Sources */,
+				2D5A7AF4C254B1429ACD6ED6BD82AF9F /* SDWebImageDownloader.m in Sources */,
+				37319D4D49BF5FAD4F77A69A9EA62ED0 /* SDWebImageDownloaderOperation.m in Sources */,
+				B16AD5E15F0831668846D554341C35A2 /* SDWebImageManager.m in Sources */,
+				2ECCB9A4FA9FFB6CBC7CA70F481D53EB /* SDWebImagePrefetcher.m in Sources */,
+				EF0CF38525C740AA79D9B1B6D64B77B8 /* UIButton+WebCache.m in Sources */,
+				CCB3F8A6D26562EE196E0F0599544362 /* UIImage+GIF.m in Sources */,
+				47454FCBC3408FCACED81D03BFE01A0A /* UIImage+MultiFormat.m in Sources */,
+				E4B6407797047DF72B1835CA6C2B2B68 /* UIImageView+HighlightedWebCache.m in Sources */,
+				4ED3626DF460B2284E2DF7420BE5646D /* UIImageView+WebCache.m in Sources */,
+				5E80A2AD7BD4D7850FE7E4E69E3E258C /* UIView+WebCacheOperation.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F2BD76E39D3F95A8070D92E4641375ED /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				250BD428FFA67EA33B3421FBEAEBBFE2 /* Pods-XENIA DRIVERTests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AC68EF6DA4E97FDD037878FCE256BFE6 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = LGSideMenuController;
+			target = B14D1374F2F7B0B2A5E8E2B263368F7E /* LGSideMenuController */;
+			targetProxy = 65EA1D044AE1D49E174AD8CFB4906530 /* PBXContainerItemProxy */;
+		};
+		BC7497BAE2EE4BA75952495953D7225A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = SDWebImage;
+			target = 2FA8F7926E59F662F472A987B6E9CB69 /* SDWebImage */;
+			targetProxy = 90BC6189D1355973388E298368A9B207 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		03BAB98A8147063DCCF35B05CE3B9725 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A7C41AF8AF4655BF17499FA8C027B689 /* Pods-XENIA DRIVERTests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0B039438543C7319F261987C51F5F151 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8C9FB2002BC9674372F30570E09F7972 /* Pods-XENIA DRIVERTests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		30095A48EB58A12A4F4F28640EFDF618 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 40642A0B567CFB196EEFC5B991A533C4 /* LGSideMenuController.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LGSideMenuController/LGSideMenuController-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		32826B4FF0BED8E85D8824B42A76557A /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 486087FCD1DC928610E8EA717D3D9EC0 /* Pods-XENIA DRIVER.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4C1D3922546C489DB68DDC751458BC7E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 74A006C343A7A118FBAC164F7183EC10 /* Pods-XENIA DRIVER.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5834F0EBFA8346C9BD87EC398EA359A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9715D2B5B2A5F8A21978C4906435D04F /* Pods-XENIA DRIVERUITests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		72CE49AE8F6E17B16AD2F1B87A62BF82 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 010F8589CA8275FB0ADF875F71F33656 /* SDWebImage.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		93DDCCFA5D03161558EA70488C3380E7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 010F8589CA8275FB0ADF875F71F33656 /* SDWebImage.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/SDWebImage/SDWebImage-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		978119B84F3ADD77D6FCD6298A93587C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 40642A0B567CFB196EEFC5B991A533C4 /* LGSideMenuController.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/LGSideMenuController/LGSideMenuController-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A95E90BF3E95B8845C4CB2108588FFA6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D9F91C63E7D25C506E1AC924ADDE55C1 /* Pods-XENIA DRIVERUITests.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		B503BC4BEBBDBCFE8D435234644F8C2A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		E86C242DF79624BBED2C556766BFDD0B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		01B220EB807AF747005CCB1EBCE41CE5 /* Build configuration list for PBXNativeTarget "LGSideMenuController" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				978119B84F3ADD77D6FCD6298A93587C /* Debug */,
+				30095A48EB58A12A4F4F28640EFDF618 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		068C32B96C6DAF55FBEBF081CDECB107 /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVERUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5834F0EBFA8346C9BD87EC398EA359A4 /* Debug */,
+				A95E90BF3E95B8845C4CB2108588FFA6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E86C242DF79624BBED2C556766BFDD0B /* Debug */,
+				B503BC4BEBBDBCFE8D435234644F8C2A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		91E22EC61FCC069F43B274EE2EB26291 /* Build configuration list for PBXNativeTarget "SDWebImage" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				93DDCCFA5D03161558EA70488C3380E7 /* Debug */,
+				72CE49AE8F6E17B16AD2F1B87A62BF82 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BF408C0510DACCB786BA33675A5AE87C /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVERTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0B039438543C7319F261987C51F5F151 /* Debug */,
+				03BAB98A8147063DCCF35B05CE3B9725 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C22BCC4D03B5C4803EA6597A97B15629 /* Build configuration list for PBXNativeTarget "Pods-XENIA DRIVER" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4C1D3922546C489DB68DDC751458BC7E /* Debug */,
+				32826B4FF0BED8E85D8824B42A76557A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+}

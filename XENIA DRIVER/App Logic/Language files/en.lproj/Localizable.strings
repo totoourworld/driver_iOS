@@ -1,0 +1,101 @@
+/* 
+  english.strings
+  XENIA DRIVER
+
+  Created by Sivilay on 25/10/17.
+  Copyright © 2017 SFYT. All rights reserved.
+*/
+
+"HelloKey" = "Hello EN";
+"Profile" = "Profile";
+"Trip_History" = "Trip History";
+"Logout" = "Logout";
+"Rating" = "Rating";
+"Availability On" = "Availability On";
+"Availability Off" = "Availability Off";
+"Profile Updated" = "Profile updated Successfully.";
+"Password Updated" = "Password updated Successfully.";
+"Password alert" = "Please enter valid password.";
+"Password_old_alert" = "please enter old password.";
+"password not matching" = "password is not matching.";
+"Warning!"="Warning!";
+"email_invalid_error"="Email or passoword should not be empty.";
+"invalid_email"="please enter valid email.";
+"login_error_message"="Please enter valid email and password.";
+"alert_ok"="OK";
+"loading"="Loading...";
+"forgot_password_link"="We've sent you an email with a link to reset your password.";
+"Invalid Email Id."="Invalid Email Id.";
+"network_error"="Internet is not available";
+"Network Error"="Network Error";
+"User is not found"="User is not found";
+"Alert !"="Alert !";
+"password must be atleast 6 character long."="password must be atleast 6 character long.";
+"logout_alert_message"="Do you want to exit now?";
+"Yes"="Yes";
+"No"="No";
+"No Cars Available"="No Cars Available";
+"Cars Available"="Cars Available";
+"Please Enter Destination address"="Please Enter Destination address";
+"No Driver Found"="No Driver Found";
+"Please select address inside the country."="Please select address inside the country.";
+"Worng Destination Address."="Wrong Destination Address.";
+"Loading Route..."="Loading...";
+"min"="min";
+"document_verification"= "Your documents are under verification. Please wait for some time.";
+"firstname_alert"="Please enter your first name.";
+"lastname_alert"="Please enter your last name.";
+"mobile_alert"="Please enter valid mobile number.";
+"MESSAGE_REJECTED"= "Driver has rejected taxi request.";
+"MESSAGE_ACCEPTED"= "Your taxi request is confirmed";
+"MESSAGE_END"=      "Your trip is finished.";
+"MESSAGE_ARRIVE"=      "Taxi will arrive soon.";
+"MESSAGE_BEGIN"=      "Your trip has started.";
+"MESSAGE_DRIVER_CANCEL" =      "Driver has cancelled trip.";
+"MESSAGE_PAID"=      "You have paid successfully.";
+"MESSAGE_CASH"=      "Please collect cash from Rider.";
+"MESSAGE_PAYPAL"=      "Rider is paying through credit card";
+"write_reason"=      "Please write a reason.";
+"permission_denied"=      "App Permission Denied.";
+"location_turn_on"=      "To re-enable, please go to Settings and turn on Location Service for this app.";
+"Something_went_Wrong"=      "Something went Wrong";
+"Contact Service Provider" = "You have reached your daily query limit. Please contact your service provider.";
+"Terms_Conditions" = "Terms of Use";
+"Share" = "Share";
+"Deactivate_Acc" = "Deactivate";
+"Url_Cannot_Open" = "Url cannot be opened now";
+"Support" = "Support";
+"Config_Mail" = "Please configure your email";
+
+"Deactivate_Alert" = "Do you want to deactivate your account?";
+
+"Account_Hold" = "Your account is under hold. Please contact the service provider for more information.";
+"Car_Registered" = "Your License Plate Number is allready registered.";
+"Email_Error" ="Please enter valid email.";
+"offline_alert_message" = "Do you want to go to offline ?";
+"too_late" ="Too Late";
+"another_driver_accepted" = "Trip assigned to another driver.";
+
+"Enter_Lic_Number"="Please Enter your License Plate Number";
+"Pick" ="Pick";
+"Accept"="Accept";
+"Decline" ="Decline";
+"Begin Trip"="Begin Trip";
+"End Trip" = "End Trip";
+"Go" ="Go";
+"DROP LOCATION" ="DROP LOCATION";
+"PICKUP LOCATION"="PICKUP LOCATION";
+"Client Picked Up ?" ="Client Picked Up ?";
+"Client reached destination ?" ="Client reached destination ?";
+"Added ID Proof" = "Added ID Proof";
+"Add ID Proof" = "Add ID Proof";
+"Added License" = "Added License";
+"Add License"="Add License";
+"Added Insurance" ="Added Insurance";
+"Add Insurance"="Add Insurance";
+"upload document" ="upload document";
+"update document" ="update document";
+"Promo Code Applied:" ="Promo Code Applied:";
+"Select_Category"="Please select a category";
+"Select a Category" ="Select a Category";
+"NO_Internet" = "Your internet connection appears to be down. Please check it and try again.";
